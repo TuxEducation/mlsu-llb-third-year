@@ -1,13 +1,19 @@
 # MLSU LL.B. 3<sup>rd</sup> Year
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-## [8001 Law Of Evidence](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8001-law-of-evidence)
 
-- [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/class/evidence-act-1872.pdf) [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/class/law-of-evidence.pdf)
-- [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/syllabus/8001-law-of-evidence.pdf) [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/syllabus/8001-law-of-evidence.pdf)
-- [The Indian Evidence Act 1872 English](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf) [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf)
-- [The Indian Evidence Act 1872 Hindi](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf) [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf)
+| [8001 Law Of Evidence](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8001-law-of-evidence) ||
+| ------------ | ------------- |
+| [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/class/evidence-act-1872.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/class/law-of-evidence.pdf) |
+| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/syllabus/8001-law-of-evidence.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/syllabus/8001-law-of-evidence.pdf) |
+| [The Indian Evidence Act 1872 English](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf) |
+| [The Indian Evidence Act 1872 Hindi](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf) |
 
 ## [8002 Law Relating To Criminal Procedure](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8002-law-of-crimes)
 
