@@ -1,13 +1,5 @@
 # MLSU LL.B. 3<sup>rd</sup> Year
 
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
 | [8001 Law Of Evidence](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8001-law-of-evidence) ||
 | ------------ | ------------- |
 | [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/class/evidence-act-1872.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/class/law-of-evidence.pdf) |
