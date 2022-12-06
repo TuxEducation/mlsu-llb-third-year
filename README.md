@@ -7,11 +7,11 @@
 | [The Indian Evidence Act 1872 English](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872.pdf) |
 | [The Indian Evidence Act 1872 Hindi](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8001-law-of-evidence/acts/the-indian-evidence-act-1872-hindi.pdf) |
 
-## [8002 Law Relating To Criminal Procedure](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8002-law-of-crimes)
-
-- [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-of-crimes/class/law-of-crimes.pdf)
-- [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-of-crimes/syllabus/8002-law-of-crimes.pdf)
-- [Indian Penal Code 1860](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-of-crimes/act/indian-penal-code-1860.pdf)
+| [8002 Law Relating To Criminal Procedure](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8002-law-relating-to-criminal-procedure) ||
+| ------------ | ------------- |
+| [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/class/law-of-crimes.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/class/law-of-crimes.pdf) |
+| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/syllabus/8002-law-relating-to-criminal-procedure.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/syllabus/8002-law-relating-to-criminal-procedure.pdf)
+| [the-code-of-criminal-procedure-1973](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/act/the-code-of-criminal-procedure-1973.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/act/the-code-of-criminal-procedure-1973.pdf) |
 
 ## [8003 Law Of Civil Procedure & Limitation](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8003-transfer-of-property)
 
