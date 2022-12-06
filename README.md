@@ -60,8 +60,8 @@
 
 | [8008 Drafting, Pleading And Conveyancing](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8008-drafting-pleading-and-conveyancing) ||
 | ------------ | ------------- |
-| [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/class/drafting-and-pleeding.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/class/drafting-and-pleeding.pdf) |
-| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/syllabus/8008-drafting-pleading-and-conveyancing.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/syllabus/8008-drafting-pleading-and-conveyancing.pdf) |
+| [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8008-drafting-pleading-and-conveyancing/class/drafting-and-pleeding.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/class/drafting-and-pleeding.pdf) |
+| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8008-drafting-pleading-and-conveyancing/syllabus/8008-drafting-pleading-and-conveyancing.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8008-drafting-pleading-and-conveyancing/syllabus/8008-drafting-pleading-and-conveyancing.pdf) |
 
 <br />
 
