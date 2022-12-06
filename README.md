@@ -13,7 +13,7 @@
 | ------------ | ------------- |
 | [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/class/law-of-crimes.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/class/law-of-crimes.pdf) |
 | [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/syllabus/8002-law-relating-to-criminal-procedure.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/syllabus/8002-law-relating-to-criminal-procedure.pdf)
-| [The Code Of Criminal Procedure 1973](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/act/the-code-of-criminal-procedure-1973.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/act/the-code-of-criminal-procedure-1973.pdf) |
+| [The Code Of Criminal Procedure 1973](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8002-law-relating-to-criminal-procedure/acts/the-code-of-criminal-procedure-1973.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8002-law-relating-to-criminal-procedure/acts/the-code-of-criminal-procedure-1973.pdf) |
 
 <br />
 
