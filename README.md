@@ -43,7 +43,7 @@
 | [8006 Administrative Law](https://github.com/TuxEducation/mlsu-llb-third-year/tree/main/8006-administrative-law) ||
 | ------------ | ------------- |
 | [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8006-administrative-law/class/administrative-law.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8006-administrative-law/class/administrative-law.pdf) |
-| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8006-administrative-law/syllabus/8006-administrative-laws.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8006-administrative-law/syllabus/8006-administrative-laws.pdf) |
+| [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8006-administrative-law/syllabus/8006-administrative-law.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8006-administrative-law/syllabus/8006-administrative-law.pdf) |
 
 <br />
 
