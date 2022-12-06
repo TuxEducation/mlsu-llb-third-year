@@ -21,7 +21,7 @@
 | ------------ | ------------- |
 | [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8003-law-of-civil-procedure-and-limitation/class/cpc.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8003-law-of-civil-procedure-and-limitation/class/cpc.pdf) |
 | [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8003-law-of-civil-procedure-and-limitation/syllabus/8003-law-of-civil-procedure-and-limitation.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8003-law-of-civil-procedure-and-limitation/syllabus/8003-law-of-civil-procedure-and-limitation.pdf) |
-| [The Code Of Civil Procedure 1908](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8003-law-of-civil-procedure-and-limitation/act/the-code-of-civil-procedure-1908.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8003-law-of-civil-procedure-and-limitation/act/the-code-of-civil-procedure-1908.pdf) |
+| [The Code Of Civil Procedure 1908](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8003-law-of-civil-procedure-and-limitation/acts/the-code-of-civil-procedure-1908.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8003-law-of-civil-procedure-and-limitation/acts/the-code-of-civil-procedure-1908.pdf) |
 
 <br />
 
