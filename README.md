@@ -29,7 +29,7 @@
 | ------------ | ------------- |
 | [Class Notes](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8004-land-laws/class/land-law.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8004-land-laws/class/land-law.pdf) |
 | [Syllabus](https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8004-land-laws/syllabus/8004-land-laws.pdf) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8004-land-laws/syllabus/8004-land-laws.pdf) |
-| [Rajasthan Tenancy Act, 1955](http://htmlpreview.github.io/?https://github.com/TuxEducation/mlsu-llb-third-year/blob/main/8004-land-laws/act/rajasthan-tenancy-act-1955.html) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8004-land-laws/act/rajasthan-tenancy-act-1955.html) |
+| [Rajasthan Tenancy Act, 1955](https://raw.githack.com/TuxEducation/mlsu-llb-third-year/main/8004-land-laws/acts/rajasthan-tenancy-act-1955.html?token=GHSAT0AAAAAAB3DARPU3AKNYPHWIL32MIYOY4PGDNA) | [Download](https://github.com/TuxEducation/mlsu-llb-third-year/raw/main/8004-land-laws/act/rajasthan-tenancy-act-1955.html) |
 
 <br />
 
